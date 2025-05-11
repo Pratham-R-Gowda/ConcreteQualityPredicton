@@ -1,0 +1,6 @@
+google
+keras
+matplotlib
+pandas
+scikit-learn
+seaborn
